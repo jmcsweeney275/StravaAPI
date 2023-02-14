@@ -25,7 +25,7 @@ function getActivites(res){
 
                         coordinates,
                         {
-                            color: "green",
+                            color: "black",
                             weight: 6,
                             opacity:.3,
                             lineJoin:'round'
